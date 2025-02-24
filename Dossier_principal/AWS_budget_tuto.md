@@ -5,7 +5,7 @@ Pour créer un nouveau budget sur AWS, suivez ces étapes
    - Connectez-vous à la [Console AWS Management] (https://aws.amazon.com/console/).
    - Dans la barre de menu en haut de la page à droite, cherchez votre identifiant (Username).
    - Cliquez sur Gestion de la facturations et couts.
-   -Cliquez sur Budgets dans le sous menu Budgets et Facturation.
+   - Cliquez sur Budgets dans le sous menu Budgets et Facturation.
  2. Créer un nouveau budget :
 Dans la création de votre budget vous pouvez choisir entre deux configurations de budget :
 a-	Utiliser un modèle (simplifié), c’est le modèle par défaut propose par aws, qui comprend quatre modèles :
