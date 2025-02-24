@@ -9,10 +9,10 @@ Pour créer un nouveau budget sur AWS, suivez ces étapes
  2. Créer un nouveau budget :
 Dans la création de votre budget vous pouvez choisir entre deux configurations de budget :
 a-	Utiliser un modèle (simplifié), c’est le modèle par défaut propose par aws, qui comprend quatre modèles :
-Budget de dépense nul ;
-Budget de couts mensuel ;
-Budget de couverture quotidienne des Savings Plans ;
-Budget quotidien d’utilisation des réservations ;
+   - Budget de dépense nul ;
+   - Budget de couts mensuel ;
+   - Budget de couverture quotidienne des Savings Plans ;
+   - Budget quotidien d’utilisation des réservations ;
 Ensuite il vous suffira de cocher sur le modèle qui vous intéresse , donnez un nom au budget et indiquez votre adresse-email. Puis cliquez sur Créer un budget.
 Votre budget a été créer avec succès vous pouvez le voir dans la liste de vos budget.
 NB : lire les descriptions de chaque menu pour plus d’information.
