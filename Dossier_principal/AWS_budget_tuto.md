@@ -15,9 +15,9 @@ a-	Utiliser un modèle (simplifié), c’est le modèle par défaut propose par 
    - Budget quotidien d’utilisation des réservations ;
 Ensuite il vous suffira de cocher sur le modèle qui vous intéresse , donnez un nom au budget et indiquez votre adresse-email. Puis cliquez sur Créer un budget.
 Votre budget a été créer avec succès vous pouvez le voir dans la liste de vos budget.
-NB : lire les descriptions de chaque menu pour plus d’information.
+ NB : lire les descriptions de chaque menu pour plus d’information.
 Dans cet exemple nous avons utilisez le modèle de budget de dépense nul.
-
+Voir capture d'ecrans(I1-6).
 
 B-	Personnaliser(avancé), c’est le modèle qui permet de personnaliser et de définir des paramètres spécifiques à votre cas d’utilisation :
 
@@ -42,6 +42,9 @@ Aucune action n’as été defini par defaut.
 Etape 5 : Vérifications
 Veuillez vérifier les informations de votre budget et modifier ci besoin.
 Ensuite cliquez sur créer un budget.
+
+Voir capture d'ecrans(I7-13).
+
 
 
 
