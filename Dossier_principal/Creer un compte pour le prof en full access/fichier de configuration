@@ -1,0 +1,33 @@
+Pour créer un compte AWS avec les informations spécifiées (nom : Taore, prénom : Youssuf, username : youssuf, et accès complet), il faut suivre ces étapes :
+
+ 1. Accéder à AWS IAM (Identity and Access Management)
+   - Connectez-vous à la [Console AWS Management](https://aws.amazon.com/console/) en tant qu'administrateur.
+   - Dans la barre de recherche, tapez "IAM" et sélectionnez IAM.
+
+2. Créer un nouvel utilisateur
+   - Dans le menu de gauche, cliquez sur "Personnes".
+   - Cliquez sur le bouton "Creer un utilisateur".
+
+3. Configurer les détails de l'utilisateur
+   - User name (Nom d'utilisateur) : Entrez "youssuf".
+   - Fournir aux utilisateurs l'acces a la console de gestion AWS: Cochez cette option.
+   - Console password (Mot de passe) :
+   - Choisissez Mot de passe personnalisé et définissez un mot de passe sécurisé.
+     - Cochez Exiger une réinitialisation du mot de passe si vous souhaitez que l'utilisateur change son mot de passe à la première connexion.
+   - Cliquez sur Suivant.
+
+ 4. Attribuer des permissions (Full Access)
+   - Sélectionnez "Attach policies directly" (Attacher des politiques directement).
+   - Recherchez et cochez la politique "AdministratorAccess" (Accès administrateur). Cette politique accorde un accès complet à AWS.
+   - Cliquez sur "Next" Suivant.
+
+ 5. Vérifier et créer l'utilisateur
+   - Passez en revue les informations :
+   - Nom d'utilisateur : `youssuf`.
+   - Politique : `AdministratorAccess`.
+   - Cliquez sur Créer l'utilisateur.
+
+6. Télécharger les informations de connexion (facultatif)
+   - Une fois l'utilisateur créé, vous pouvez télécharger un fichier CSV contenant les informations de connexion (nom d'utilisateur, mot de passe et lien de connexion).
+  
+En suivant ces étapes, vous aurez créé un compte AWS pour Youssuf Taore avec un accès complet.
