@@ -1,1 +1,29 @@
-#Comment changer le mode de payement sur AWS
+#Pour changer votre mode de paiement sur AWS, suivez ces étapes :
+
+ 1. Accéder à la section de gestion des paiements
+   - Connectez-vous à la [Console AWS Management](https://aws.amazon.com/console/).
+   - Dans la barre de recherche en haut, tapez Facturation et sélectionnez Facturation et gestion des coûts.
+
+ 2. Accéder aux méthodes de paiement
+   - Dans le menu de gauche, defilez jusqu'en bas Preferences et parametres cliquez sur Preferences de paiement.
+   - Vous verrez la liste des méthodes de paiement actuellement enregistrées (cartes de crédit/débit ou comptes bancaires).
+
+ 3. Ajouter une nouvelle méthode de paiement
+   - Cliquez sur Ajouter une méthode de paiement.
+   - Remplissez les informations requises :
+     - Pour une **carte de crédit/débit** : Entrez le numéro de carte, la date d'expiration et le code de sécurité.
+     - Pour un **compte bancaire** : Entrez les détails de votre compte bancaire (IBAN, SWIFT, etc.).
+   - Cliquez sur "Continue"pour enregistrer la nouvelle méthode de paiement.
+
+4. Définir la nouvelle méthode comme méthode par défaut
+   - Une fois la nouvelle méthode de paiement ajoutée, sélectionnez-la dans la liste.
+   - Cliquez sur **"Make default"** (Définir par défaut) pour qu'elle devienne la méthode de paiement principale.
+
+5. Supprimer l'ancienne méthode de paiement (facultatif)
+   - Si vous souhaitez supprimer l'ancienne méthode de paiement, sélectionnez-la dans la liste.
+   - Cliquez sur **"Delete"** (Supprimer) et confirmez la suppression.
+
+6. Vérifier les informations
+   - Assurez-vous que la nouvelle méthode de paiement est correctement enregistrée et définie comme méthode par défaut.
+   
+En suivant ces étapes, vous pouvez facilement mettre à jour votre méthode de paiement sur AWS.
